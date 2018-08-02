@@ -1,6 +1,6 @@
 public class TimeAll  {
-   protected int hours;
-   protected int minutes;
+   private int hours;
+   private int minutes;
 
     public int getMinutes() {
         return minutes;
