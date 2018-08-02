@@ -8,7 +8,7 @@ import java.util.stream.Stream;
 import static org.junit.jupiter.api.Assertions.*;
 
 class AngleCalculatingTest {
-    iAngleCalculating calculator;
+    AngleCalculate calculator;
 
     @BeforeEach
     void init() {

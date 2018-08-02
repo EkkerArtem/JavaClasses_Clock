@@ -1,4 +1,4 @@
-public interface iAngleCalculating {
+public interface AngleCalculate  {
     /** Method to Method for calculating angle between hours hand and minutes hand on regular analog clock.
      * @param hours hours part of time passed.
      * @param minutes minutes part of time passed.
